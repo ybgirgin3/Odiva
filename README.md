@@ -45,5 +45,3 @@ image_formats = [
 and you can add more extension or extension list to program
 
 ***NOTE: SCRIPT WRITTEN IN PYTHON 3, THIS VERSION ONLY WORKS IN LINUX BASED SYSTEMS***
-
-# email_sender2019
