@@ -6,6 +6,7 @@
 ## Description
 
 Odiva is made for capturing file from a machine and sending via email it to another machine.
+Under maintenance
 
 
 Odiva searchs specified file in OS even in root folders
